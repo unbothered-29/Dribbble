@@ -21,18 +21,33 @@ body {
     height: 100px;
     width: 100%;
     background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
 }
 
 #nav-part1 {
     width: 30%;
+    display: flex;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: space-between;
 }
 
-#nav-part1 h4{
+#nav-part1 h4 {}
 
+#nav img {
+    height: 80px;
+    width: 200px;
 }
 
 #nav-part2 {
     width: 30%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: flex end;
 }
 
 #pg1 #content {
