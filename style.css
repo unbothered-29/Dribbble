@@ -14,13 +14,13 @@ body {
 #pg1 {
     height: 100%;
     width: 100%;
-    background-color: rgb(21, 34, 77);
+    /*  background-color: rgb(21, 34, 77);*/
 }
 
 #pg1 #nav {
     height: 120px;
     width: 100%;
-    background-color: aqua;
+    /*  background-color: aqua;*/
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -28,17 +28,16 @@ body {
 }
 
 #nav-part1 {
-    width: 26.5%;
+    width: 27%;
+    /*  background-color: aquamarine; */
     display: flex;
-    background-color: aquamarine;
     align-items: center;
     justify-content: space-between;
 }
 
 #nav-part1 h4 {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
-    color: ;
 }
 
 #nav img {
@@ -51,6 +50,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex end;
+}
+
+#nav-part2 button {
+    padding: 15px 22px;
+    border-radius: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 #pg1 #content {
