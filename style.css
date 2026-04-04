@@ -11,14 +11,20 @@ body {
     font-family: Inter, sans-serif;
 }
 
-#pg-1 {
+#pg1 {
     height: 100%;
     width: 100%;
     background-color: rgb(21, 34, 77);
 }
 
 #pg1 #nav {
-    height: 120px;
+    height: 100px;
     width: 100%;
     background-color: aqua;
+}
+
+#pg1 #content {
+    height: calc(100% - 100px);
+    width: 100%;
+    background-color: burlywood;
 }
