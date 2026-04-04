@@ -8,12 +8,17 @@ html,
 body {
     height: 100%;
     width: 100%;
-    overflow-x: hidden;
     font-family: Inter, sans-serif;
 }
 
 #pg-1 {
     height: 100%;
     width: 100%;
-    /*background-color: rgb(21, 34, 77); */
+    background-color: rgb(21, 34, 77);
+}
+
+#pg1 #nav {
+    height: 120px;
+    width: 100%;
+    background-color: aqua;
 }
