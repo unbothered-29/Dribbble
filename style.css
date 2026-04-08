@@ -132,6 +132,7 @@ body {
     width: 100%;
     background-color: red;
     padding: 5px;
+    display: flex;
 }
 
 .elem {
