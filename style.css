@@ -131,4 +131,11 @@ body {
     height: 400px;
     width: 100%;
     background-color: red;
+    padding: 5px;
+}
+
+.elem {
+    height: 95%;
+    width: 300px;
+    background-color: blue;
 }
