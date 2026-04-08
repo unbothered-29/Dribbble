@@ -128,11 +128,12 @@ body {
 }
 
 #bottom {
-    height: 400px;
+    height: 35 0px;
     width: 100%;
     background-color: red;
     padding: 5px;
     display: flex;
+    flex-wrap: nowrap;
 }
 
 .elem {
