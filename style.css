@@ -126,3 +126,9 @@ body {
 #content button:hover {
     cursor: pointer;
 }
+
+#bottom {
+    height: 400px;
+    width: 100%;
+    background-color: red;
+}
