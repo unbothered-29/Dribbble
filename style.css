@@ -143,6 +143,8 @@ body {
     flex-shrink: 0;
     height: 100%;
     width: 310px;
+    margin-right: 30px;
+    
     background-color: blue;
     border: 2px solid black;
 }
