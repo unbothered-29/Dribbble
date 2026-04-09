@@ -150,7 +150,12 @@ body {
     border-radius: 20px;
     background-color: blue;
     /*  border: 2px solid black;*/
+}
 
+.elem img {
+    height: 100%;
+    width: 260px;
+    border-radius: 10px;
 }
 
 #pg2 {
