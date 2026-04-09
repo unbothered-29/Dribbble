@@ -146,3 +146,8 @@ body {
     background-color: blue;
     border: 2px solid black;
 }
+
+h2{
+    font-size: 70px;
+    background-color: aqua;
+}
