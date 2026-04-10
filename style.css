@@ -153,7 +153,11 @@ body {
     /*  border: 2px solid black;*/
 }
 
-.elem 
+.elem .text-bottom{
+    height: 40%;
+    width: 100%;
+    
+}
 
 .elem img {
     height: 100%;
