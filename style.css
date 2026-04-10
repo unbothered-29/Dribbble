@@ -144,6 +144,7 @@ body {
 
 .elem {
     display: inline-block;
+    position: relative;
     height: 82%;
     width: 260px;
     margin-right: 30px;
@@ -151,6 +152,8 @@ body {
     background-color: blue;
     /*  border: 2px solid black;*/
 }
+
+
 
 .elem img {
     height: 100%;
@@ -165,4 +168,6 @@ body {
     width: 100%;
     background-color: rgb(160, 131, 188);   
 }
+
+
 
