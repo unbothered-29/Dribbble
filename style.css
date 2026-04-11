@@ -173,8 +173,12 @@ body {
     width: 100%;
     position: relative;
     padding: 70px;
+    margin-top: 280px;
+
     /*  background-color: rgb(160, 131, 188); */
 }
+
+#pg2 h1 {}
 
 .box {
     height: 300px;
