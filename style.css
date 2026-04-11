@@ -174,10 +174,10 @@ body {
     /*  background-color: rgb(160, 131, 188); */
 }
 
-.box{
+.box {
     height: 300px;
     width: 350px;
     background-color: blue;
-    position: relative
-    padding;
+    position: relative;
+    padding: 70px;
 }
