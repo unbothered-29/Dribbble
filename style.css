@@ -9,6 +9,7 @@ body {
     height: 100%;
     width: 100%;
     font-family: Inter, sans-serif;
+    overflow-x: hidden;
 }
 
 #pg1 {
@@ -174,7 +175,6 @@ body {
     position: relative;
     padding: 70px;
     margin-top: 280px;
-
     /*  background-color: rgb(160, 131, 188); */
 }
 
