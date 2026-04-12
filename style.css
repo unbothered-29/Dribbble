@@ -186,6 +186,11 @@ body {
     margin-bottom: 50px;
 }
 
+.discover {
+    display: flex;
+    gap: 40px;
+}
+
 .box {
     height: 330px;
     width: 400px;
@@ -193,7 +198,7 @@ body {
     border-radius: 10px;
 }
 
-.box img{
+.box img {
     object-fit: cover;
     border-radius: 10px;
 }
