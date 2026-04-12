@@ -188,8 +188,7 @@ body {
 
 .discover {
     height: 400px;
-    width: 100%;
-    background-color: antiquewhite;
+    width: 100;
     display: flex;
     gap: 40px;
 }
