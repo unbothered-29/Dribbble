@@ -187,6 +187,9 @@ body {
 }
 
 .discover {
+    height: 400px;
+    width: 100%;
+    background-color: antiquewhite;
     display: flex;
     gap: 40px;
 }
@@ -203,7 +206,7 @@ body {
     border-radius: 10px;
 }
 
-.box video{
+.box video {
     height: 330px;
     width: 400px;
     object-fit: cover;
