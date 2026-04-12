@@ -202,3 +202,10 @@ body {
     object-fit: cover;
     border-radius: 10px;
 }
+
+.box video{
+    height: 330px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
