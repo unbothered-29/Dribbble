@@ -214,10 +214,18 @@ body {
 
 #exploring {
     height: 100%;
-    width: 60%;
     position: relative;
     padding: 270px;
     margin-left: 32px;
     margin-top: -70px;
-/*  background-color: rgb(160, 131, 188); */
+    /*  background-color: rgb(160, 131, 188);  */
+}
+
+#explorin {
+    height: 100%;
+    position: relative;
+    padding: 270px;
+    margin-left: 32px;
+    margin-top: -290px;
+    /*  background-color: rgb(160, 131, 188);  */
 }
