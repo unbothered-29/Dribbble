@@ -9,6 +9,7 @@ body {
     height: 100%;
     width: 100%;
     font-family: Inter, sans-serif;
+    overflow-x: hidden;
 }
 
 #pg1 {
@@ -172,8 +173,7 @@ body {
     height: 100%;
     width: 100%;
     position: relative;
-    padding: 70px;
-    margin-top: 280px;
+    padding: 300px;
     /*  background-color: rgb(160, 131, 188); */
 }
 
@@ -181,7 +181,7 @@ body {
     text-align: center;
     font-size: 60px;
     font-weight: 500;
-    padding: 20px;
+    padding: 40px;
     margin-bottom: 50px;
 }
 
@@ -190,6 +190,7 @@ body {
     width: 100;
     display: flex;
     gap: 40px;
+    margin-left: -220px;
 }
 
 .box {
@@ -209,4 +210,13 @@ body {
     width: 400px;
     object-fit: cover;
     border-radius: 10px;
+}
+
+#pg3 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    padding: 270px;
+    margin-left: 30px;
+    /*  background-color: rgb(160, 131, 188); */
 }
