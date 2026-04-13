@@ -212,11 +212,11 @@ body {
     border-radius: 10px;
 }
 
-#pg3 {
+#exploring {
     height: 100%;
     width: 100%;
     position: relative;
     padding: 270px;
-    margin-left: 30px;
+    margin-left: 32px;
     /*  background-color: rgb(160, 131, 188); */
 }
