@@ -209,6 +209,10 @@ body {
     cursor: pointer;
 }
 
+.box video:hover {
+    cursor: pointer;
+}
+
 .box video {
     height: 330px;
     width: 400px;
