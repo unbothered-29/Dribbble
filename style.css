@@ -221,5 +221,5 @@ body {
 .box-bottom{
     height: 40%;
     width: 100%;
-    background: linear-gradient(orange,white,green);
+    background: linear-gradient(to right orange,white);
 }
