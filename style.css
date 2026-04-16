@@ -221,5 +221,5 @@ body {
 .box-bottom {
     height: 40%;
     width: 100%;
-    background: linear-gradient(transparent, black);
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.648));
 }
