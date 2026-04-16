@@ -225,4 +225,5 @@ body {
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.648));
     position: absolute;
     bottom:0;
+    border-radius: 10px;
 }
