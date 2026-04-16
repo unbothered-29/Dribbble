@@ -194,6 +194,7 @@ body {
     display: inline-block;
     /* overflow: hidden; */
     margin: 15px;
+    position: relative;
 }
 
 .box img {
@@ -222,4 +223,5 @@ body {
     height: 40%;
     width: 100%;
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.648));
+    position: absolute;
 }
