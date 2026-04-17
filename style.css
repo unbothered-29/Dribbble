@@ -229,14 +229,16 @@ body {
     transition: all ease 0.3s;
 }
 
-.box:hover .box-bottom{
+.box:hover .box-bottom {
     bottom: 0;
 }
 
-.box-bottom h5{
+.box-bottom h5 {
     color: white;
+    display: inline-block;
 }
 
-.box-bottom i{
+.box-bottom i {
     color: white;
+    display: inline-block;
 }
