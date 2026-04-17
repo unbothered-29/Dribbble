@@ -246,6 +246,11 @@ body {
     color: black;
     border-radius: 50%;
     margin-top: 20px;
+    margin-left: 10px;
+}
+
+i:nth-child(2) {
+    margin-left: 170px;
 }
 
 .box:hover .box-bottom {
