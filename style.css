@@ -192,7 +192,7 @@ body {
     background-color: blue;
     border-radius: 10px;
     display: inline-block;
-    /* overflow: hidden; */
+    overflow: hidden;
     margin: 15px;
     position: relative;
 }
@@ -226,4 +226,9 @@ body {
     position: absolute;
     bottom: -40%;
     border-radius: 10px;
+    transition: all ease 0.3s;
+}
+
+.box:hover .box-bottom{
+    bottom: 0;
 }
