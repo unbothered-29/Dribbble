@@ -236,13 +236,16 @@ body {
     font-weight: 500;
 }
 
+.box-bottom h5 {
+    margin-top: 20px;
+}
 
 .box-bottom i {
     background-color: white;
     padding: 8px 9px;
     color: black;
     border-radius: 50%;
-    margin-left: 100px;
+    margin-top: 20px;
 }
 
 .box:hover .box-bottom {
