@@ -224,6 +224,6 @@ body {
     width: 100%;
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.648));
     position: absolute;
-    bottom:0;
+    bottom: -40%;
     border-radius: 10px;
 }
