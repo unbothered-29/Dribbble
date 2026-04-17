@@ -232,3 +232,11 @@ body {
 .box:hover .box-bottom{
     bottom: 0;
 }
+
+.box-bottom h5{
+    color: white;
+}
+
+.box-bottom i{
+    color: white;
+}
