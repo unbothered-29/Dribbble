@@ -195,6 +195,7 @@ body {
     overflow: hidden;
     margin: 15px;
     position: relative;
+    transition: all ease 0.5s;
 }
 
 .box img {
@@ -255,4 +256,8 @@ i:nth-child(2) {
 
 .box:hover .box-bottom {
     bottom: 0;
+}
+
+.box:hover {
+    box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.356);
 }
