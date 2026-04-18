@@ -263,7 +263,7 @@ i:nth-child(2) {
     cursor: pointer;
 }
 
-.footer{
+.footer {
     height: 20%;
     width: 100%;
     /* display: inline; */
@@ -272,16 +272,16 @@ i:nth-child(2) {
     bottom: -40%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-
+    justify-content: flex-start;
+    gap: 10px;
 }
 
-.footer img{
+.footer img {
     height: 30px;
     width: 30px;
 }
 
-.footer button{
+.footer button {
     height: 20px;
     width: 60px;
     color: white;
@@ -290,7 +290,9 @@ i:nth-child(2) {
     border-radius: 5px;
 }
 
-.likes{
+.likes {
     display: flex;
     gap: 5px;
+    color: rgba(128, 128, 128, 0.626);
+    justify-content: flex-end;
 }
