@@ -264,11 +264,10 @@ i:nth-child(2) {
 }
 
 .footer {
-    height: 20%;
+    height: 10%;
     width: 100%;
-    /* display: inline; */
     position: absolute;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     bottom: -40%;
     display: flex;
     align-items: center;
@@ -291,8 +290,21 @@ i:nth-child(2) {
 }
 
 .likes {
+    height: 20px;
+    width: 60px;
+    background-color: aqua;
     display: flex;
     gap: 5px;
     color: rgba(128, 128, 128, 0.626);
     justify-content: flex-end;
+    margin-left: 60px;
+
+}
+
+/* .likes i:nth-child(1) {
+    margin-left: 160px;
+} */
+
+.likes:nth-child(1) {
+    margin-left: 160px;
 }
