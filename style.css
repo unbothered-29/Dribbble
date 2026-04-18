@@ -268,11 +268,12 @@ i:nth-child(2) {
     width: 100%;
     position: absolute;
     /* background-color: aquamarine; */
-    bottom: -40%;
+    bottom: -11%;
     display: flex;
     align-items: center;
     justify-content: flex-start;
     gap: 10px;
+
 }
 
 .footer img {
@@ -291,20 +292,21 @@ i:nth-child(2) {
 
 .likes {
     height: 20px;
-    width: 60px;
+    width: 120px;
     background-color: aqua;
     display: flex;
     gap: 5px;
     color: rgba(128, 128, 128, 0.626);
-    justify-content: flex-end;
     margin-left: 60px;
-
+    align-items: center;
+    justify-content: flex-end;
 }
 
-/* .likes i:nth-child(1) {
-    margin-left: 160px;
-} */
 
-.likes:nth-child(1) {
-    margin-left: 160px;
+.likes i {
+    font-weight: 400;
+}
+
+.likes h5 {
+    font-weight: 400;
 }
