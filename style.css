@@ -192,7 +192,7 @@ body {
     background-color: blue;
     border-radius: 10px;
     display: inline-block;
-    overflow: hidden;
+    /* overflow: hidden; */
     margin: 15px;
     position: relative;
     transition: all ease 0.5s;
@@ -264,14 +264,19 @@ i:nth-child(2) {
 }
 
 .footer{
-    height: 40px;
+    height: 40%;
     width: 100%;
-    display: inline;
+    /* display: inline; */
     position: absolute;
     background-color: aquamarine;
+    bottom: -80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
 }
 
 .footer img{
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
 }
