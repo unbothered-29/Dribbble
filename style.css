@@ -290,3 +290,7 @@ i:nth-child(2) {
     border-radius: 5px;
 }
 
+.likes{
+    display: flex;
+    gap: 5px;
+}
