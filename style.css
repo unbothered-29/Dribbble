@@ -192,7 +192,7 @@ body {
     background-color: blue;
     border-radius: 10px;
     display: inline-block;
-    /* overflow: hidden; */
+    overflow: hidden;
     margin: 15px;
     position: relative;
     transition: all ease 0.5s;
@@ -230,7 +230,7 @@ body {
     border-radius: 10px;
     color: white;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     display: flex;
     padding: 0 20px;
     transition: all ease 0.3s;
@@ -251,7 +251,7 @@ body {
     margin-left: 10px;
 }
 
-i:nth-child(2) {
+.box-bottom i:nth-child(2) {
     margin-left: 170px;
 }
 
@@ -265,13 +265,11 @@ i:nth-child(2) {
 }
 
 .footer {
-    /* position: absolute; */
-    
-    left: 0;
-    bottom: 10px;
+    position: absoulte;
     width: 100%;
     display: flex;
     align-items: center;
+    bottom: 0;
     padding: 2px;
     margin-bottom: 10px;
     padding: 6px 10px;
@@ -311,7 +309,7 @@ i:nth-child(2) {
 .likes {
     display: flex;
     align-items: center;
-    gap: px;
+    gap: 4px;
     color: rgba(128, 128, 128, 0.76);
 }
 
