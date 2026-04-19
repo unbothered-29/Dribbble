@@ -195,12 +195,9 @@ body {
 .box {
     height: 330px;
     width: 100%;
-    /* inherit from card */
     margin: 0;
-    /* remove old margin, card handles it */
     border-radius: 10px;
     display: block;
-    /* full width inside card */
     overflow: hidden;
     position: relative;
     transition: all ease 0.5s;
