@@ -305,21 +305,30 @@ body {
 .stats {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 8px;
     margin-left: auto;
 }
 
 .likes {
     display: flex;
     align-items: center;
-    color: rgba(128, 128, 128, 0.76);
 }
 
 .likes h5 {
-    font-size: 13px;
+    font-size: 12px;
     line-height: 1;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
+    color: rgb(61, 61, 78);
+}
+
+.likes i {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(128, 128, 128, 0.76);
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1;
+
 }
 
 .card {
