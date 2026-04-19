@@ -311,7 +311,6 @@ body {
 .likes {
     display: flex;
     align-items: center;
-    gap: 4px;
     color: rgba(128, 128, 128, 0.76);
 }
 
