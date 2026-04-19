@@ -334,9 +334,3 @@ body {
     color: #F2B0EA;
     cursor: pointer;
 }
-
-.card {
-    display: inline-block;
-    width: 400px;
-    margin: 15px;
-}
