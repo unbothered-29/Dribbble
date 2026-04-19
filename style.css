@@ -326,9 +326,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: rgba(128, 128, 128, 0.76);
     font-weight: 500;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 1;
+}
 
+.stats .likes:first-child i:hover {
+    color: #F2B0EA;
+    cursor: pointer;
 }
 
 .card {
