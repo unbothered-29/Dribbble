@@ -334,3 +334,7 @@ body {
     color: #F2B0EA;
     cursor: pointer;
 }
+
+#pg2 button{
+    background-color: black;
+}
