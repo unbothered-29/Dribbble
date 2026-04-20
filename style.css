@@ -335,11 +335,12 @@ body {
     cursor: pointer;
 }
 
-#pg2 button{
+.sign button{
     background-color: black;
     font-weight: 600;
     color: white;
     border-radius: 20px;
     padding: 7px 10px;
-    margin-left: 45%;
+    margin-left: 42%;
+    margin-top: 50px;
 }
