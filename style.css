@@ -339,5 +339,6 @@ body {
     background-color: black;
     font-weight: 500;
     color: white;
-    border-radius: 10px;
+    border-radius: 20px;
+    padding: 5px 8px;
 }
