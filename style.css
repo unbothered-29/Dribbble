@@ -347,6 +347,6 @@ body {
 
 .sign button:hover {
     cursor: pointer;
-    background-color: rgba(92, 92, 92, 0.811);
-    border-color: rgba(92, 92, 92, 0.811);
+    background-color: rgb(86, 85, 99);
+    border-color: rgb(86, 85, 99);
 }
