@@ -337,6 +337,7 @@ body {
 
 .sign button {
     background-color: black;
+    border-color: black;
     font-weight: 600;
     color: white;
     border-radius: 20px;
