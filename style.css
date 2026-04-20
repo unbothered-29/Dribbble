@@ -335,11 +335,15 @@ body {
     cursor: pointer;
 }
 
-.sign button{
+.sign button {
     background-color: black;
     font-weight: 600;
     color: white;
     border-radius: 20px;
     padding: 9px 12px;
     margin: 50px 42%;
+}
+
+.sign button:hover {
+    cursor: pointer;
 }
