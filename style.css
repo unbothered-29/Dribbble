@@ -373,3 +373,6 @@ body {
     border-radius: 10px;
     object-fit: cover;
 }
+.moblie h4{
+    font-weight: 400;
+}
