@@ -357,7 +357,13 @@ body {
 }
 
 .mobile{
-        height: 100px;
-        width: 200px;
+        height: 90px;
+        width: 180px;
         background-color: blanchedalmond;
+        border-radius: 10px;
+}
+
+.mobile img{
+        border-radius: 10px;
+   object-fit: cover;
 }
