@@ -359,6 +359,7 @@ body {
     position: relative;
     padding-top: 85%;
 }
+
 .print {
     height: 25%;
     width: 100%;
@@ -373,13 +374,16 @@ body {
     margin-left: 30px;
 }
 
-.mobile img{
+.mobile img {
     height: 150px;
     width: 200px;
     border-radius: 10px;
     object-fit: cover;
 }
-.moblie h5{
-    font-weight: 400;
-    font-size: 54px;
+
+h5 {
+    margin-top: 8px;
+    margin-left: -10px;
+    font-weight: 500;
+    font-size: 15px;
 }
