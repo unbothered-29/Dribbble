@@ -141,12 +141,15 @@ body {
     display: none;
 }
 
+#bottom .elem:first-child{
+    margin-left: 20px;
+}
 .elem {
     display: inline-block;
     position: relative;
     height: 82%;
     width: 260px;
-    margin-right: 30px;
+    margin-right: 15px;
     border-radius: 20px;
     background-color: blue;
 }
