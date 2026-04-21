@@ -356,4 +356,8 @@ body {
     width: 100%;
 }
 
-.p
+.mobile{
+        height: 100px;
+        width: 200px;
+        background-color: blanchedalmond;
+}
