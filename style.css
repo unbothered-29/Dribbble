@@ -141,9 +141,10 @@ body {
     display: none;
 }
 
-#bottom .elem:first-child{
+#bottom .elem:first-child {
     margin-left: 20px;
 }
+
 .elem {
     display: inline-block;
     position: relative;
@@ -367,4 +368,5 @@ body {
 .mobile img {
     border-radius: 10px;
     object-fit: cover;
+
 }
