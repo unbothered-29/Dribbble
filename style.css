@@ -131,7 +131,6 @@ body {
 #bottom {
     height: 400px;
     width: 100%;
-    /* background-color: red; */
     padding: 5px;
     overflow-x: auto;
     overflow-y: hidden;
@@ -150,7 +149,6 @@ body {
     margin-right: 30px;
     border-radius: 20px;
     background-color: blue;
-    /*  border: 2px solid black;*/
 }
 
 .elem .text-bottom {
