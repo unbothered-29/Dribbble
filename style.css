@@ -411,7 +411,7 @@ body {
     height: 15%;
     width: 100%;
     padding-top: 250px;
-    padding-left: 63px;
+    padding-left: 45px;
     display: flex;
 }
 
@@ -422,20 +422,21 @@ body {
 .support {
     width: 65%;
     display: flex;
-    margin: 32px 60px;
+    margin: 32px 80px;
     align-items: center;
     justify-content: space-between;
 }
 
-.support h5{
+.support h5 {
     font-size: 15px;
     font-weight: 500;
 }
+
 .icons {
     margin-top: 20px;
 }
 
 .icons i {
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
