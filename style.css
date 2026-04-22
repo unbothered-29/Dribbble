@@ -412,8 +412,27 @@ body {
     width: 100%;
     padding-top: 250px;
     padding-left: 63px;
+    display: flex;
 }
 
 .foot img {
     height: 70px;
+}
+
+.support {
+    width: 65%;
+    display: flex;
+    margin: 32px 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icons {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.icons i {
+    font-size: 20px;
+    margin-left: 10px;
 }
