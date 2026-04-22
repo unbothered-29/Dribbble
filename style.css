@@ -427,6 +427,10 @@ body {
     justify-content: space-between;
 }
 
+.support h5{
+    font-size: 15px;
+    font-weight: 500;
+}
 .icons {
     margin-left: 50px;
     margin-top: 20px;
