@@ -460,3 +460,11 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+.jobs {
+    height: 15%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
