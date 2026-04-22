@@ -452,3 +452,11 @@ body {
     padding-left: 45px;
     display: flex;
 }
+
+.dribbble {
+    height: 15%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
