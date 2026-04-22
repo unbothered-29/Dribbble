@@ -416,7 +416,7 @@ body {
 }
 
 .foot img {
-    height: 70px;
+    height: 75px;
 }
 
 .support {
@@ -428,8 +428,12 @@ body {
 }
 
 .support h5 {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 500;
+}
+
+.support:hover {
+    cursor: pointer;
 }
 
 .icons {
@@ -437,6 +441,6 @@ body {
 }
 
 .icons i {
-    font-size: 20px;
-    margin-left: 15px;
+    font-size: 23px;
+    margin-left: 10px;
 }
