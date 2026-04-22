@@ -422,7 +422,7 @@ body {
 .support {
     width: 65%;
     display: flex;
-    margin: 32px 40px;
+    margin: 32px 60px;
     align-items: center;
     justify-content: space-between;
 }
@@ -432,7 +432,6 @@ body {
     font-weight: 500;
 }
 .icons {
-    margin-left: 50px;
     margin-top: 20px;
 }
 
