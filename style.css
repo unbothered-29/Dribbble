@@ -337,7 +337,7 @@ body {
     cursor: pointer;
 }
 
-.sign button {
+#sign button {
     background-color: black;
     border-color: black;
     font-weight: 600;
@@ -347,7 +347,7 @@ body {
     margin: 50px 42%;
 }
 
-.sign button:hover {
+#sign button:hover {
     cursor: pointer;
     background-color: rgb(86, 85, 99);
     border-color: rgb(86, 85, 99);
