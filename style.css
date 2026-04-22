@@ -362,7 +362,7 @@ body {
 
 .print {
     height: 25%;
-    width: 100%;
+    width: 200%;
     display: flex;
 }
 
@@ -372,6 +372,25 @@ body {
     background-color: blanchedalmond;
     border-radius: 10px;
     margin-left: 30px;
+    animation-name: anime;
+    animation-duration: 5s;
+    animation-iteration-count: infinte;
+    animation-timing-function: linear;
+}
+
+.mobile:hover {
+    cursor: pointer;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.356);
+}
+
+@keyframes anime {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-100%);
+    }
 }
 
 .mobile img {
@@ -381,7 +400,7 @@ body {
     object-fit: cover;
 }
 
-h5 {
+.mobile h5 {
     margin-top: 15px;
     margin-left: -8px;
     font-weight: 500;
