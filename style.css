@@ -406,3 +406,14 @@ body {
     font-weight: 500;
     font-size: 16px;
 }
+
+.foot {
+    height: 15%;
+    width: 100%;
+    padding-top: 250px;
+    padding-left: 63px;
+}
+
+.foot img {
+    height: 70px;
+}
